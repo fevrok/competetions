@@ -4,6 +4,21 @@
 	</div>
 </template>
 
+<script>
+export default {
+	head() {
+		return {
+			meta: [
+				{ property: 'og:url', content: 'https://gleam.io/6AtsJ/free-fire-giveaway-1' },
+				{ property: 'og:title', content: '4000 free fire diamond' },
+				{ property: 'twitter:card', content: 'summary' },
+				{ property: 'fb:app_id', content: '152351391599356' }
+			]
+		}
+	}
+}
+</script>
+
 <style>
 html {
 	font-family: 'Markazi Text', 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI',
