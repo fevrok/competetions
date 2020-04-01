@@ -8,6 +8,9 @@
 export default {
 	head() {
 		return {
+			link: [
+				{ rel: 'icon', href: 'https://freefire.fr/wp-content/uploads/icon.png' }
+			],
 			meta: [
 				{ property: 'og:url', content: 'https://free-fire.competition.fevrok.com' },
 				{ property: 'og:title', content: '41000 جوهرة فري فاير مجانا' },
