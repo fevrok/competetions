@@ -11,10 +11,10 @@ export default {
 			meta: [
 				{ property: 'og:url', content: 'https://free-fire.competition.fevrok.com' },
 				{ property: 'og:title', content: '41000 جوهرة فري فاير مجانا' },
-				{ property: 'og:image', content: 'https://d18a0eh5u1wsd3.cloudfront.net/images/141/fevrok_free_fire_competition.png' },
+				{ property: 'og:image', content: 'https://d18a0eh5u1wsd3.cloudfront.net/images/142/fevrok_games_free_fire-_competition.png' },
 				{ property: 'og:video', content: 'https://www.youtube.com/v/LmDiYZ0OM14' },
 				{ property: 'twitter:card', content: 'شارك واربح 41000 جوهرة فري فاير مجانا' },
-				{ property: 'twitter:image', content: 'https://d18a0eh5u1wsd3.cloudfront.net/images/141/fevrok_free_fire_competition.png' },
+				{ property: 'twitter:image', content: 'https://d18a0eh5u1wsd3.cloudfront.net/images/142/fevrok_games_free_fire-_competition.png' },
 				{ property: 'fb:app_id', content: '152351391599356' }
 			]
 		}
