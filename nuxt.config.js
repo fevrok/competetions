@@ -36,6 +36,9 @@ export default {
   buildModules: [
     // Doc: https://github.com/nuxt-community/nuxt-tailwindcss
     '@nuxtjs/tailwindcss',
+    ['@nuxtjs/google-analytics', {
+      id: 'UA-78467008-1'
+    }]
   ],
   /*
   ** Nuxt.js modules

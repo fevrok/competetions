@@ -21,8 +21,8 @@
 </style>
 
 <template>
-	<div>
-		<section class="text-blue-900">
+	<div class="text-blue-900">
+		<section>
 			<div class="container mx-auto px-5 py-10">
 				<div class="flex justify-center mb-10">
 					<div class="text-center font-bold text-3xl px-10 py-5 rounded-lg bg-white shadow">
@@ -95,6 +95,11 @@
 			<div class="container mx-auto px-5 py-10">
 				<a class="e-widget no-button" href="https://gleam.io/6AtsJ/free-fire-giveaway-1" rel="nofollow"></a>
 				<script type="text/javascript" src="https://widget.gleamjs.io/e.js" async="true"></script>
+				<div class="flex justify-center my-10">
+					<div class="text-center font-bold text-xl px-10 py-5 bg-white shadow">
+						سنعلن عن الفائزين من خلال ديسكورد مع فيديو مباشر على يوتيوب
+					</div>
+				</div>
 			</div>
 		</section>
 	</div>
