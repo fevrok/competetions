@@ -9,9 +9,12 @@ export default {
 	head() {
 		return {
 			meta: [
-				{ property: 'og:url', content: 'https://gleam.io/6AtsJ/free-fire-giveaway-1' },
-				{ property: 'og:title', content: '4000 free fire diamond' },
-				{ property: 'twitter:card', content: 'summary' },
+				{ property: 'og:url', content: 'https://free-fire.competition.fevrok.com' },
+				{ property: 'og:title', content: '41000 جوهرة فري فاير مجانا' },
+				{ property: 'og:image', content: 'https://d18a0eh5u1wsd3.cloudfront.net/images/141/fevrok_free_fire_competition.png' },
+				{ property: 'og:video', content: 'https://www.youtube.com/v/LmDiYZ0OM14' },
+				{ property: 'twitter:card', content: 'شارك واربح 41000 جوهرة فري فاير مجانا' },
+				{ property: 'twitter:image', content: 'https://d18a0eh5u1wsd3.cloudfront.net/images/141/fevrok_free_fire_competition.png' },
 				{ property: 'fb:app_id', content: '152351391599356' }
 			]
 		}
