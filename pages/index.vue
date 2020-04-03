@@ -36,7 +36,7 @@
 					حسب المراتب
 				</div>
 				<div class="flex flex-wrap justify-center -mx-5">
-					<div class="lg:w-1/5 sm:w-1/2 w-full px-5 mb-10">
+					<div class="lg:w-1/5 sm:w-1/3 w-2/3 px-5 mb-10">
 						<div class="bg-white shadow-lg p-3 rounded-lg flex flex-col items-cente text-center transform hover:scale-105 transition duration-200 ease-in-out">
 							<div class="flex justify-center">
 								<div class="leading-none px-5 py-2 rounded-full bg-blue-100 text-blue-700 mb-3">
@@ -52,7 +52,7 @@
 					</div>
 				</div>
 				<div class="flex flex-wrap justify-center -mx-5">
-					<div class="lg:w-1/5 sm:w-1/2 w-full px-5 mb-10">
+					<div class="lg:w-1/5 sm:w-1/3 w-2/3 px-5 mb-10">
 						<div class="bg-white shadow-lg p-3 rounded-lg flex flex-col items-cente text-center transform hover:scale-105 transition duration-200 ease-in-out">
 							<div class="flex justify-center">
 								<div class="leading-none px-5 py-2 rounded-full bg-pink-100 text-pink-700 mb-3">
@@ -66,7 +66,7 @@
 							<!-- <div class="text-xs font-bold text-gray-500">55 MAD</div> -->
 						</div>	
 					</div>
-					<div class="lg:w-1/5 sm:w-1/2 w-full px-5 mb-10">
+					<div class="lg:w-1/5 sm:w-1/3 w-2/3 px-5 mb-10">
 						<div class="bg-white shadow-lg p-3 rounded-lg flex flex-col items-cente text-center transform hover:scale-105 transition duration-200 ease-in-out">
 							<div class="flex justify-center">
 								<div class="leading-none px-5 py-2 rounded-full bg-yellow-100 text-yellow-700 mb-3">
